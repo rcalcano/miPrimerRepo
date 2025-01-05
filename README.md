@@ -13,3 +13,5 @@ Cambios desde mi rama local llamada developer01.
 Cambios desde mi rama local llamada developer02.
 
 Estoy editando desde la web de GitHub.
+ 
+Estoy en mi mini Laptop.
